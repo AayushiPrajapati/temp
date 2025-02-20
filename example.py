@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 num1 = 1.8
-num2 = 6.6
+num2 = 6.2
 
 # Add two numbers
 #changes done work
