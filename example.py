@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 
 num1 = 1.5
-num2 = 6.3
+num2 = 6.0
 
 # Add two numbers
-#changes
+#changes done work
 sum = num1 + num2
 
 # Display the sum
