@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-num1 = 1.5
+num1 = 1.8
 num2 = 6.0
 
 # Add two numbers
